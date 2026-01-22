@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Natural TTS Reader",
+  "description": "A high-quality text-to-speech reader that splits large text files and generates natural-sounding audio using Gemini Flash TTS models.",
+  "requestFramePermissions": []
+}
